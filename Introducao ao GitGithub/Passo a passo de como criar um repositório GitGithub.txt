@@ -1,0 +1,21 @@
+
+#Passo a Passo
+ **No Github**
+1) Adicionar um repositório e realizar as mofificações que julgar necessário.
+2) Copiar o código https:/...
+
+ **No Git**
+3) --> git clone https:/...
+4) -->cd nome da pasta
+5) --> git status
+
+--> Se quiser criar pastas lá dentro
+6) Para mandar para o github:
+  --> git add .
+  --> git status
+  --> git commit -m "Inclusão de dados"
+  --> git status 
+  --> git push origin main 
+
+**FIM :) **
+ 
